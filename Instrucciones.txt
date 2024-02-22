@@ -1,0 +1,5 @@
+1. Mover la carpeta web-registro-educativo-php a "C:\xampp\htdocs"
+2. Abrir el programa "XAMPP Control Panel"
+3. Click en Start Apache y MySQL
+4. En phpMyAdmin -> Importar -> archivo "aplicacion" de la carpeta "bd_mysql"
+5. Ingresar a "http://localhost/web-registro-educativo-php"
